@@ -1,0 +1,61 @@
+ h1  {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(161 129 103);
+ }
+body{
+    background-color:#f8eee5;      
+}
+
+.quotebut {
+     background-color:rgb(161 129 103);
+     font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     color: #f8eee5; 
+     margin: auto;  
+     border:none;        
+      text-align: center;
+     text-decoration: none; 
+     font-size: 16px; 
+     width:583.8px;
+     height: 30px;
+      border: 3px solid rgb(95, 50, 16); 
+      cursor: pointer; 
+ }   
+ #button{
+    background-color:rgb(161 129 103);
+     font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     color: #f8eee5; 
+     margin: auto;  
+     border:none;        
+      text-align: center;
+     text-decoration: none; 
+     font-size: 16px; 
+     width:583.8px;
+     height:30px;
+       cursor: pointer;
+
+ }
+#bookpic  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+
+ }
+ 
+#quoteDisplay {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     border: none;
+     color: rgb(46, 33, 8);
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 20px;
+     /*position: relative;
+     left:25%;
+     right:25%;*/
+     width:50%;
+     margin:auto;
+      }
